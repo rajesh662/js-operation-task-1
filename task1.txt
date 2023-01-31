@@ -1,0 +1,16 @@
+1.Find Addition
+2.Calculate Subtraction
+3.Calculate Multiplication 
+4.Calculate Division
+5. Program to calculate Area of Circle 
+6.Program to calculate Area of  Triangle
+7.Program for Calculating Simple Interest
+8.Program for calculating Square 
+9.Program for calculating Cube
+10.Program to calculate total and average
+11.Check number is prime or not
+12.Program for larger number
+13.Program to check number is positive or not
+14.Program to check number is greater than 10
+15.Number even or odd
+16.Program to check whether number is divisible by 5
